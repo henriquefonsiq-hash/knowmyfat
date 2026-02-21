@@ -1,0 +1,7 @@
+streamlit
+pandas
+Pillow
+google-generativeai
+pywebview
+pyinstaller
+PyPDF2
