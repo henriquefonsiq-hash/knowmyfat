@@ -1,3 +1,0 @@
-COLOQUE SEUS LIVROS DE NUTRIÇÃO (PDF) NESTA PASTA.
-
-O ChatBot do NutriPlan lerá todos os arquivos .pdf aqui dentro para responder às suas dúvidas com base no conteúdo deles.
